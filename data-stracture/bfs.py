@@ -7,6 +7,7 @@ graph={
         '8':[]
         }
 visited=[]
+
 queue=[]
 
 def bfs(visited,graph,node):
